@@ -2,7 +2,7 @@
 
 A simple tipping calculator app that allows users to input their bill amount, choose a tip percentage, and specify the number of people to split the bill with. The app will then calculate the total tip amount and total amount per person, and display the results.
 
-<img src="https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/323074715_628847059010072_9197205247386955105_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=DPtFt16GhEMAX-Zba1E&_nc_ht=scontent-iad3-1.xx&oh=00_AfAxSzzawvGfy_E6tDA8Ik7R_8yl7QqXYYNP_5ypxLgY2g&oe=63B678B9" style="height: 400px; width: 180px" />
+<img src="https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/323074715_628847059010072_9197205247386955105_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=DPtFt16GhEMAX-Zba1E&_nc_ht=scontent-iad3-1.xx&oh=00_AfAxSzzawvGfy_E6tDA8Ik7R_8yl7QqXYYNP_5ypxLgY2g&oe=63B678B9" style="height: 316px; width: 125px" />
 
 ## Software Architecture
 
